@@ -1,0 +1,35 @@
+/*.hide{
+    display: none!important;
+} 
+.tab {
+    display: none;
+}
+.step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #ccc;
+    border: none;  
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.6;
+  } 
+
+  .step.active {
+    opacity: 1;
+  }
+
+/* Mark the steps that are finished and valid: */
+ /* .step.finish {
+    background-color: #4CAF50;
+  }*/
+
+  .panel-footer .pull-right{
+     padding-right: 4%!important;
+  }
+  .hide{
+    display: none!important;;
+  }
+  .m-top{
+    margin-top: 7%;
+  }
